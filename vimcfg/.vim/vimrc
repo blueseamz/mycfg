@@ -1,0 +1,4 @@
+" My Config 
+" set line number
+set number
+set relativenumber
